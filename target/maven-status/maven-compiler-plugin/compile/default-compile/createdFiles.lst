@@ -1,0 +1,7 @@
+com\ronde\Ronde\controller\PlanningController.class
+com\ronde\Ronde\RondeApplication.class
+com\ronde\Ronde\model\Planning.class
+com\ronde\Ronde\service\PlanningRepository.class
+com\ronde\Ronde\model\Personne.class
+com\ronde\Ronde\controller\PersonneController.class
+com\ronde\Ronde\service\PersonneRepository.class
