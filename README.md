@@ -2,6 +2,7 @@
 App Android For Tracking People with bluetooth
 BKR SECURITY Android App
 * Setup 
+
 -Pour lancé le projet projet Web "Ronde_Backend" Réalisé Avec Spring boot, vous aurez besoin de la dernière version de Java 8 
 -Vous aurez besoin d'une version plus récente, 3.1, d'Apache Maven installée.
 -Vous aurez besoin d'un IDE installé. Quelque chose comme Apache NetBeans, Eclipse ou IntelliJ IDE(recommandé).
