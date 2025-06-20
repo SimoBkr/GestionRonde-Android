@@ -1,17 +1,33 @@
 # GestionRondeAndroid
-App Android For Tracking People with bluetooth
-BKR SECURITY Android App
-* Setup 
 
--Pour lancé le projet projet Web "Ronde_Backend" Réalisé Avec Spring boot, vous aurez besoin de la dernière version de Java 8 
--Vous aurez besoin d'une version plus récente, 3.1, d'Apache Maven installée.
--Vous aurez besoin d'un IDE installé. Quelque chose comme Apache NetBeans, Eclipse ou IntelliJ IDE(recommandé).
-- Lancé le projet Ronde_Backend avec votre IDE.
--Lancé le Fichier Script.sql dans MysqlWorkbench ou n'importe quelle plateforme de Mysql le Script contient juste la creation de la base de donné les tables ca sera créer automatique Quand vous lancé le projet Web.
--Ouvrir le Terminal de IDE est ecrire : "mvn spring-boot:run"
-vérifier que vous etes dans le fichier de projet .
-- Quand le projet terminé Lancé le Projet Android avec Android Studio .
-- vérifier que votre SDK est > 24 .
-- connécter avec le compte admin .
-email = m@m
-password = m@m
+## Overview
+
+GestionRondeAndroid is an Android app for tracking people using Bluetooth, designed for BKR Security.
+
+## Setup
+
+To launch the web project **Ronde_Backend** (developed with Spring Boot), you'll need:
+
+- The latest version of Java 8
+- Apache Maven version 3.1 or higher
+- An IDE installed (recommended: IntelliJ IDEA, or you can use Apache NetBeans or Eclipse)
+
+### Steps to Run
+
+1. **Launch the Ronde_Backend Project:**
+   - Open the project in your IDE.
+   - Run the `Script.sql` file in MySQL Workbench or any MySQL platform. This script contains the creation of the database; tables will be created automatically when you run the web project.
+
+2. **Start the Backend:**
+   - Open the terminal in your IDE and navigate to the project directory.
+   - Run the following command:
+     ```bash
+     mvn spring-boot:run
+     ```
+
+3. **Run the Android Project:**
+   - Open the Android project in Android Studio.
+   - Ensure your SDK version is greater than 24.
+   - Connect using the admin account:
+     - Email: `m@m`
+     - Password: `m@m`
